@@ -1,0 +1,28 @@
+" Color Scheme from https://github.com/tomasr/molokai
+let g:molokai_original = 1
+
+" Indent automatically depending on filetype
+filetype indent on 
+
+" Set command window height to 2 lines
+set cmdheight=2
+
+" Turn on numbering
+set number
+
+" Highlight search
+set hls
+
+" Set syntax on 
+syntax on 
+
+" Indentation Stuff
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+
+" Case insensitive search, except for capital letters
+set ignorecase
+set smartcase
+
+
