@@ -25,4 +25,4 @@ set smartcase
 
 set backspace=indent,eol,start
 
-noremap <C-z> :sh<cr>
+noremap <C-d> :sh<cr>
