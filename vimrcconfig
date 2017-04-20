@@ -1,6 +1,5 @@
 colorscheme elflord
 
-" Indent automatically depending on filetype
 filetype indent on 
 
 " Set command window height to 2 lines
